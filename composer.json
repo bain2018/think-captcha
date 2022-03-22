@@ -9,7 +9,7 @@
     ],
     "license": "Apache-2.0",
     "require": {
-        "bain2018/think-installer": "3.0",
+        "bain2018/think-installer": "^3.1",
         "bain2018/framework": "5.0.28"
     },
     "autoload": {
